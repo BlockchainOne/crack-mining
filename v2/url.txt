@@ -1,0 +1,4 @@
+http://img.namunil.com/ash.php
+http://img.namunil.com/bsh.php
+http://img.namunil.com/rsh.php
+http://img.namunil.com/dump.db
